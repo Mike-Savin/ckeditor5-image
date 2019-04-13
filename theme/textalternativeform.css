@@ -3,7 +3,7 @@
  * For licensing, see LICENSE.md.
  */
 
-@import "@ckeditor/ckeditor5-theme-lark/theme/mixins/_rwd.css";
+@import "../../ckeditor5-theme-lark/theme/mixins/_rwd.css";
 
 .ck.ck-text-alternative-form {
 	display: flex;
